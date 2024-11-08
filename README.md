@@ -1,5 +1,5 @@
 # FIR Filter Design and Implementation
-This project implements a Finite Impulse Response (FIR) filter with configurable parameters using Verilog. The design includes both the datapath and controller components, built to handle variable filter sizes and ensure accurate results through extensive validation methods.
+This project implements a Finite Impulse Response (FIR) filter with configurable parameters using SystemVerilog. The design includes both the datapath and controller components, built to handle variable filter sizes and ensure accurate results through extensive validation methods.
 
 ![Alt text](FIR.png)
 
